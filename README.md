@@ -108,5 +108,5 @@ Max Temp vs. Latitude
 
 <br>
 <br>
-<img src="https://github.com/slobanwala1/python-api-challenge/blob/main/my_submission/Images/output_data/Fig14.png" width="500">
+<img src="https://github.com/slobanwala1/python-api-challenge/blob/main/my_submission/Images/output_data/Fig14.PNG" width="500">
 
